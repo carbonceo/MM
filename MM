@@ -1,4 +1,5 @@
-"CRB/USDT": { 
+{
+ "CRB/USDT": { 
     "price": 0.2,
     "up": 0.08,
     "down": 0.12
