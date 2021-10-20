@@ -1,6 +1,6 @@
-"CRB/USDT": {  // pair name
-    "price": 0.2, // central price
-    "up": 0.08, // percent deviation top line 40% = 0.08
-    "down": 0.12  // percent deviation bottom line 60% = 0.12
+"CRB/USDT": { 
+    "price": 0.2,
+    "up": 0.08,
+    "down": 0.12
   }
 }
